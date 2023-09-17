@@ -1,2 +1,2 @@
 # video-demo
-CLAD-Net:Real-Time Endoscopic Instrument Detection Method Based on Improved YOLOv5
+CLAD-Net: Cross-Layer Aggregation Attention Network for Real-Time Endoscopic Instrument Detection
